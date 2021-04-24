@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: rgba(189, 186, 186, 0.125);
+}
+svg {
+  width: 100vw;
+  height: 100vh;
+  cursor: pointer;
+}
+
+svg rect,
+svg text {
+  cursor: text;
+}
